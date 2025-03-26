@@ -1,0 +1,902 @@
+[
+    {
+        "customer_id": "C0009",
+        "product_id": "P0001",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 378.17,
+        "purchase_date": "2024-09-23",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0002",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 288.41,
+        "purchase_date": "2024-06-22",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0003",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 492.09,
+        "purchase_date": "2024-09-24",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0004",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 850.97,
+        "purchase_date": "2024-04-26",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0005",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 225.01,
+        "purchase_date": "2024-08-31",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0006",
+        "transaction_type": "Refund",
+        "category": "Clothing",
+        "amount": 739.39,
+        "purchase_date": "2025-01-26",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0007",
+        "transaction_type": "Refund",
+        "category": "Clothing",
+        "amount": 703.39,
+        "purchase_date": "2025-02-26",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0008",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 342.9,
+        "purchase_date": "2025-01-18",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0009",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 734.34,
+        "purchase_date": "2024-06-12",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0010",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 239.66,
+        "purchase_date": "2024-06-08",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0011",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 900.59,
+        "purchase_date": "2024-04-17",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0012",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 320.5,
+        "purchase_date": "2024-04-24",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0013",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 875.55,
+        "purchase_date": "2024-11-03",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0014",
+        "transaction_type": "Refund",
+        "category": "Clothing",
+        "amount": 89.69,
+        "purchase_date": "2024-10-21",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0015",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 567.27,
+        "purchase_date": "2024-03-27",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0016",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 191.82,
+        "purchase_date": "2025-03-13",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0017",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 467.76,
+        "purchase_date": "2025-01-21",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0018",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 789.01,
+        "purchase_date": "2024-07-10",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0019",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 294.34,
+        "purchase_date": "2024-09-24",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0020",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 891.4,
+        "purchase_date": "2025-01-09",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0021",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 39.9,
+        "purchase_date": "2024-04-04",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0022",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 238.49,
+        "purchase_date": "2024-05-29",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0023",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 923.03,
+        "purchase_date": "2024-05-13",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0024",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 682.76,
+        "purchase_date": "2024-04-23",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0025",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 122.21,
+        "purchase_date": "2024-09-28",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0026",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 371.1,
+        "purchase_date": "2024-04-09",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0027",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 827.68,
+        "purchase_date": "2025-02-12",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0028",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 537.58,
+        "purchase_date": "2024-05-10",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0029",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 697.78,
+        "purchase_date": "2024-10-02",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0030",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 78.75,
+        "purchase_date": "2024-07-14",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0031",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 85.55,
+        "purchase_date": "2025-01-23",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0032",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 559.12,
+        "purchase_date": "2024-08-24",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0033",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 711.87,
+        "purchase_date": "2025-01-13",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0034",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 387.52,
+        "purchase_date": "2025-03-01",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0035",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 898.65,
+        "purchase_date": "2024-07-15",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0036",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 856.85,
+        "purchase_date": "2024-05-21",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0037",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 326.95,
+        "purchase_date": "2024-07-17",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0038",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 642.96,
+        "purchase_date": "2024-05-16",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0039",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 381.54,
+        "purchase_date": "2024-06-14",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0040",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 77.07,
+        "purchase_date": "2025-03-15",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0041",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 816.81,
+        "purchase_date": "2024-05-17",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0042",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 277.83,
+        "purchase_date": "2024-04-24",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0043",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 577.01,
+        "purchase_date": "2025-02-17",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0044",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 109.53,
+        "purchase_date": "2025-03-01",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0045",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 813.49,
+        "purchase_date": "2024-11-30",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0046",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 740.38,
+        "purchase_date": "2024-08-22",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0047",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 917.57,
+        "purchase_date": "2024-03-25",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0048",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 786.72,
+        "purchase_date": "2024-12-06",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0049",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 539.85,
+        "purchase_date": "2024-07-29",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0050",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 552.98,
+        "purchase_date": "2024-12-29",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0051",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 756.04,
+        "purchase_date": "2024-09-04",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0052",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 658.6,
+        "purchase_date": "2024-12-17",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0053",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 551.24,
+        "purchase_date": "2024-03-29",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0054",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 832.7,
+        "purchase_date": "2025-03-05",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0055",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 804.59,
+        "purchase_date": "2025-01-18",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0056",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 354.03,
+        "purchase_date": "2024-06-09",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0057",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 709.1,
+        "purchase_date": "2025-02-05",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0058",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 604.28,
+        "purchase_date": "2024-08-24",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0059",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 965.24,
+        "purchase_date": "2025-02-18",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0060",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 838.62,
+        "purchase_date": "2024-09-22",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0061",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 731.21,
+        "purchase_date": "2025-01-19",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0062",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 811.71,
+        "purchase_date": "2024-06-04",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0063",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 284.91,
+        "purchase_date": "2024-06-29",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0064",
+        "transaction_type": "Refund",
+        "category": "Clothing",
+        "amount": 666.23,
+        "purchase_date": "2024-09-25",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0065",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 11.39,
+        "purchase_date": "2024-08-28",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0066",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 263.91,
+        "purchase_date": "2025-01-18",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0067",
+        "transaction_type": "Purchase",
+        "category": "Books",
+        "amount": 758.7,
+        "purchase_date": "2025-02-21",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0068",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 515.79,
+        "purchase_date": "2024-07-15",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0069",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 481.53,
+        "purchase_date": "2024-12-22",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0070",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 550.94,
+        "purchase_date": "2024-04-10",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0071",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 927.88,
+        "purchase_date": "2024-08-18",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0072",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 913.47,
+        "purchase_date": "2024-06-22",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0073",
+        "transaction_type": "Purchase",
+        "category": "Clothing",
+        "amount": 501.18,
+        "purchase_date": "2025-01-05",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0074",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 109.25,
+        "purchase_date": "2024-07-20",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0009",
+        "product_id": "P0075",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 160.98,
+        "purchase_date": "2024-06-10",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0076",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 962.37,
+        "purchase_date": "2024-10-22",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0077",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 902.97,
+        "purchase_date": "2024-11-28",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0078",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 9.37,
+        "purchase_date": "2025-02-11",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0079",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 961.01,
+        "purchase_date": "2025-02-18",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0080",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 52.07,
+        "purchase_date": "2024-06-23",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0081",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 259.28,
+        "purchase_date": "2024-07-20",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0082",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 213.78,
+        "purchase_date": "2025-03-04",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0083",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 640.66,
+        "purchase_date": "2025-01-04",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0010",
+        "product_id": "P0084",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 791.54,
+        "purchase_date": "2024-08-14",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0085",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 523.54,
+        "purchase_date": "2024-12-01",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0007",
+        "product_id": "P0086",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 570.55,
+        "purchase_date": "2024-08-01",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0087",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 631.82,
+        "purchase_date": "2024-05-01",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0088",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 960.76,
+        "purchase_date": "2024-04-20",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0089",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 320.15,
+        "purchase_date": "2024-08-03",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0006",
+        "product_id": "P0090",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 257.8,
+        "purchase_date": "2024-06-04",
+        "payment_mode": "PayPal"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0091",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 307.2,
+        "purchase_date": "2024-07-23",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0092",
+        "transaction_type": "Refund",
+        "category": "Groceries",
+        "amount": 880.62,
+        "purchase_date": "2025-01-18",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0008",
+        "product_id": "P0093",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 705.45,
+        "purchase_date": "2024-07-19",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0094",
+        "transaction_type": "Purchase",
+        "category": "Electronics",
+        "amount": 353.46,
+        "purchase_date": "2024-04-02",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0005",
+        "product_id": "P0095",
+        "transaction_type": "Purchase",
+        "category": "Groceries",
+        "amount": 481.63,
+        "purchase_date": "2025-02-06",
+        "payment_mode": "Credit Card"
+    },
+    {
+        "customer_id": "C0003",
+        "product_id": "P0096",
+        "transaction_type": "Refund",
+        "category": "Books",
+        "amount": 841.49,
+        "purchase_date": "2024-06-07",
+        "payment_mode": "Debit Card"
+    },
+    {
+        "customer_id": "C0002",
+        "product_id": "P0097",
+        "transaction_type": "Refund",
+        "category": "Electronics",
+        "amount": 414.4,
+        "purchase_date": "2024-04-07",
+        "payment_mode": "Bank Transfer"
+    },
+    {
+        "customer_id": "C0004",
+        "product_id": "P0098",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 420.93,
+        "purchase_date": "2024-10-22",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0099",
+        "transaction_type": "Purchase",
+        "category": "Toys",
+        "amount": 67.55,
+        "purchase_date": "2024-11-08",
+        "payment_mode": "Crypto"
+    },
+    {
+        "customer_id": "C0001",
+        "product_id": "P0100",
+        "transaction_type": "Refund",
+        "category": "Toys",
+        "amount": 53.1,
+        "purchase_date": "2024-10-16",
+        "payment_mode": "Debit Card"
+    }
+]

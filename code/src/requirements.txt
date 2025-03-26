@@ -1,0 +1,15 @@
+python-dotenv
+ipykernel
+openai
+transformers
+sentence-transformers
+fastapi
+uvicorn
+nltk
+spacy
+vaderSentiment
+notebook
+faker
+pandas
+scikit-surprise
+uvicorn
